@@ -11,5 +11,4 @@ Identify which questions asked on Quora are duplicates of questions that have al
 # References
 1) https://www.kaggle.com/anokas/data-analysis-xgboost-starter-0-35460-lb/comments
 2) https://towardsdatascience.com/identifying-duplicate-questions-on-quora-top-12-on-kaggle-4c1cf93f1c30
-3) https://towardsdatascience.com/identifying-duplicate-questions-on-quora-top-12-on-kaggle-4c1cf93f1c30
-4) https://www.dropbox.com/sh/93968nfnrzh8bp5/AACZdtsApc1QSTQc7X0H3QZ5a?dl=0
+3) https://www.dropbox.com/sh/93968nfnrzh8bp5/AACZdtsApc1QSTQc7X0H3QZ5a?dl=0
